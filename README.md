@@ -8,7 +8,8 @@ I'm a Full Stack Software Developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 - 🌱 I am currently learning C# and T-SQL.
 
 If you want to get in touch
-LinkedIn badge
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anya-mcdonald-526458169/)
 
 ## My Skills
 

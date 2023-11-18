@@ -2,7 +2,7 @@
 
 I'm a Full Stack Software Developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
--  👩🏼‍💻 I am currently working as a Junior Software Developer at Envoy Group.
+-  👩🏼‍💻 I am currently working as a Junior Software Developer at Accord Business Solutions.
 - 📚 I graduated with a Merit in Full Stack Web Development Diploma from Code Institute.
 - 💞 I am looking to collaborate with others and work on web development projects
 - 🌱 I am currently learning C# and T-SQL.
